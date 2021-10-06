@@ -1,0 +1,3 @@
+[submodule "Radio_Spectral_Fitting"]
+	path = Radio_Spectral_Fitting
+	url = https://github.com/paloween/Radio_Spectral_Fitting.git
